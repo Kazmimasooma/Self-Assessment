@@ -15,5 +15,7 @@ Our biggest team strength was our communication skills, understanding each other
 ## Summary of the project: 
 
 How can Disney movie clusters assist us in making educated judgments for other Disney company verticals?
+
 K-Means Clustering and K-Nearest Neighbor
+
 We can determine the closest neighbours of each movie title. We may then use this knowledge in other business sectors for toy production, merchandising product placements, park ride positioning inside Disneyland, future franchise partnership and collaborations, and so on. 
